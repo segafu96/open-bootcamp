@@ -1,0 +1,22 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+*{
+    background-color: rgb(89, 89, 231);
+}
+
+#elemento-1{
+    color: red;
+    
+}
+
+.articulo-1{
+    font-size: 2rem;
+}
+
+h1{
+
+    font-family: 'Ubuntu', sans-serif;
+    text-transform: uppercase;
+    
+}
